@@ -31,7 +31,7 @@ class Users implements User {
 
 }
 
-const user = new Users("ayman",258);
+const user = new Users("ayoub",258);
 
 console.log(user.getName())
 console.log(user.getAge())
